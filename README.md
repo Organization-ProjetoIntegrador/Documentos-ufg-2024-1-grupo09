@@ -31,5 +31,8 @@
 </br>
 
 ### :hourglass: Requisitos Não Funcionais
+</br>
+
+### 💻Link de acesso ao Figma, Confluence e Jira 
 
 
