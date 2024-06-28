@@ -24,7 +24,7 @@
 ### :pencil: Regras de Negócio
 </br>
 
-### :pushpin: Project MOdel Canvas  
+### :pushpin: Project Model Canvas  
 </br>
 
 ### :mag: Critérios de aceitação
